@@ -1,2 +1,3 @@
 # thesis-paper
-Algorithms and source code supporting the final thesis
+
+Algorithms and source code supporting the final thesis.
